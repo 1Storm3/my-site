@@ -1,0 +1,32 @@
+.sh {
+  width: 1200px;
+  margin: 0 auto;
+}
+h1 {
+  font-family: sans-serif;
+  margin-top: 1.5em;
+  font-size: 32px;
+}
+
+h2 {
+  font-family: sans-serif;
+  margin-top: 1.5em;
+}
+h3 {
+  font-family: sans-serif;
+  margin-top: 1.5em;
+}
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+th,
+td {
+  border: 1px solid black;
+}
+figcaption {
+  font-style: italic;
+}
+figure {
+  float: right;
+}
